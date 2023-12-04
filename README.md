@@ -50,7 +50,7 @@ Ensure you have the following software installed:
 
 3. Configure MongoDB:
 
-   Update the MongoDB connection details in `app.py`:
+   Update the MongoDB connection details in `main.py`:
 
    ```python
    # Configure your MongoDB connection
@@ -60,7 +60,7 @@ Ensure you have the following software installed:
 4. Run the application:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
    The application should now be running on [http://localhost:5555](http://localhost:5555).
