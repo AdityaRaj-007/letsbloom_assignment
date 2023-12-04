@@ -8,7 +8,6 @@ This is a basic starter template for building a web application using Flask as t
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 
 ## Introduction
@@ -65,10 +64,6 @@ Ensure you have the following software installed:
    ```
 
    The application should now be running on [http://localhost:5555](http://localhost:5555).
-
-## Usage
-
-Describe how to use and interact with your application. Include examples of API requests and responses.
 
 ## API Endpoints
 
