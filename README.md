@@ -54,7 +54,7 @@ Ensure you have the following software installed:
 
    ```python
    # Configure your MongoDB connection
-   client = MongoClient('mongodb+srv://iamadityaraj2001:test@cluster0.mnale5f.mongodb.net/?retryWrites=true&w=majority')
+   client = MongoClient('your_mongodb_connection_string')
    ```
 
 4. Run the application:
@@ -63,7 +63,7 @@ Ensure you have the following software installed:
    python app.py
    ```
 
-   The application should now be running on [http://localhost:5000](http://localhost:5000).
+   The application should now be running on [http://localhost:5555](http://localhost:5555).
 
 ## API Endpoints
 
