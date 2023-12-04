@@ -12,11 +12,10 @@ This assignment is done using Flask as the backend framework and MongoDB as the 
 
 ## Introduction
 
-This project serves as a starting point for developing web applications with Flask and MongoDB. It includes the basic structure for setting up a RESTful API with endpoints for CRUD operations on a MongoDB database.
+This task serves as a starting point for developing web applications with Flask and MongoDB. It includes the basic structure for setting up a RESTful API with endpoints for CRUD operations on a MongoDB database.
 
 ## Features
 
-- Flask web application
 - MongoDB integration for data storage
 - Basic CRUD operations (Create, Read, Update)
 - RESTful API design
