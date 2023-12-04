@@ -23,5 +23,6 @@ updated_data = {
     "author": "RL Stine",
     "quantity": 2
 }
-response = requests.put(BASE + "/api/books/656dacc1e3e0242e7de98b8j", json=updated_data)
+response = requests.put(BASE + "/api/books/656dacc1e3e0242e7de98b5a", json=updated_data)
 print(response.status_code)
+print(response.json())
