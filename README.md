@@ -63,7 +63,7 @@ Ensure you have the following software installed:
    python app.py
    ```
 
-   The application should now be running on [http://localhost:5555](http://localhost:5555).
+   The application should now be running on [http://localhost:5000](http://localhost:5000).
 
 ## API Endpoints
 
