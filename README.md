@@ -1,6 +1,6 @@
 ## Letsbloom Assignment
 
-This is a basic starter template for building a web application using Flask as the backend framework and MongoDB as the database. It provides a foundation for creating RESTful APIs with CRUD operations.
+This assignment is done using Flask as the backend framework and MongoDB as the database. It provides a foundation for creating RESTful APIs with CRUD operations.
 
 ## Table of Contents
 - [Introduction](#introduction)
